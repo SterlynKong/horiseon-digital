@@ -2,8 +2,8 @@
 # Horiseone-Digital
 # Search Engine Optimization Company Website
 # First assignment
-# Added accessability standards to existing code
-# Fixed broken navigation
+# Add accessability standards to existing code
+# Fix broken navigation
 # Optimized stylesheet
 # Link to live website below
 
