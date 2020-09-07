@@ -1,4 +1,3 @@
-# Code Refactor Starter Code
 # Horiseone-Digital
 # Search Engine Optimization Company Website
 # First assignment
